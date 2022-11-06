@@ -1,4 +1,6 @@
-# project-1 
+[Patika.dev](https://www.patika.dev/tr)
+
+# project-1
 
 ###  1) verilen dizinin sort türüne göre aşamaları
     - [22,27,16,2,18,6]->Insertion Sort (Başlangıç)
